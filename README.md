@@ -55,10 +55,12 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### echo-server.py:
-![304289799-1cfbf389-38ec-46f9-8978-715c2475e6f2](https://github.com/Senthil-Kumar-710/demo/assets/93860256/162428a4-7d4a-4107-97ba-51b2a88c4dbc)
+
+![eht1](https://github.com/Senthil-Kumar-710/Echoserver/assets/93860256/3c1db2e7-adc8-4b0a-ab39-455e478c3e05)
 
 ### echo-client.py
-![304289870-e8f01a07-c716-414f-a5c3-452ddbe3b959](https://github.com/Senthil-Kumar-710/demo/assets/93860256/018cd658-14a8-4716-975e-cc3461262b98)
+
+![eht2](https://github.com/Senthil-Kumar-710/Echoserver/assets/93860256/6fd65756-fbcb-4a1f-9650-32be1b87db56)
 
 
 ## RESULT:
